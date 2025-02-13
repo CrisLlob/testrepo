@@ -4,6 +4,5 @@
 
 ### editing the file
 
-#### primeros pasos con GitHub
 
-##### ojala aprenda todo el temario
+
